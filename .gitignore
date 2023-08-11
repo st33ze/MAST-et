@@ -6,6 +6,3 @@ Thumbs.db
 .DS_Store
 npm-debug.log
 yarn-error.log
-build_production/images/maizzle.png
-build_production/promotional.html
-build_production/transactional.html
