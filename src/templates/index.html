@@ -9,20 +9,25 @@ bodyClass: bg-zinc-50
   <div role="presentation" class="bg-zinc-50 sm:px-4 font-sans">
     <table align="center">
       <tr>
-        <td class="w-[600px] max-w-full bg-zinc-100">
+        <td class="w-[600px] max-w-full bg-zinc-100 dark:bg-zinc-800">
           <table class="w-full">
             <!-- start HEADER -->
             <tr><td class="p-12 sm:py:8 sm:px-6">
-                <a href="https://www.maststudiosc.com/">
-                  <img src="images/logo-dark.png" width="200" alt="MAST Studio">
+                <a href="https://www.maststudiosc.com/" target="_blank">
+                  <img class="dark:hidden" src="images/logo-dark.png" width="200" alt="MAST Studio">
+                  <!--[if !mso]><! -->
+                  <div class="hidden dark:block">
+                    <img src="images/logo-light.png" width="200" alt="MAST Studio">
+                  </div>
+                  <!--<![endif]-->
                 </a>
             </td></tr>
             <!-- end HEADER -->
 
-            <tr><td><x-divider space-y="0px"/></td></tr>
+            <tr><td><x-divider class="dark:bg-slate-600"space-y="0px"/></td></tr>
 
             <!-- start BODY -->
-            <tr><td class="p-12 sm:py-8 sm:px-6 bg-zinc-200/50 text-zinc-700 text-justify">
+            <tr><td class="p-12 sm:py-8 sm:px-6 bg-zinc-200/50 text-zinc-700 text-justify dark:bg-zinc-700/50 dark:text-zinc-200">
               <h1 class="font-normal text-xl">
                 Szanowni Państwo
               </h1>
@@ -39,19 +44,38 @@ bodyClass: bg-zinc-50
             <!-- end BODY -->
 
             <!-- start FOOTER -->
-            <tr><td class="bg-zinc-200 text-zinc-700">
+            <tr><td class="bg-zinc-200 text-zinc-700 dark:bg-zinc-700">
               <table role="presentation" class="w-full"><tr>
                 <td class="w-2/5 py-3" align="right">
-                  <a href="https://www.maststudiosc.com/" class="no-underline">
-                    <img src="images/web-dark.png" width="24" alt="website">
+                  <a href="https://www.maststudiosc.com/" class="no-underline" target="_blank">
+                    <img class="dark:hidden" src="images/web-dark.png" width="24" alt="website">
+                    <!--[if !mso]><! -->
+                    <div class="hidden dark:block">
+                      <img src="images/web-light.png" width="24" alt="website">
+                    </div>
+                    <!--<![endif]-->
                   </a>
                 </td>
                 <td class="w-1/5 py-3" align="center">
-                  <a href="https://www.facebook.com/ma.studio.st" class="no-underline">
-                    <img src="images/facebook-dark.png" width="24" alt="facebook">
+                  <a href="https://www.facebook.com/ma.studio.st" class="no-underline" target="_blank">
+                    <img class="dark:hidden" src="images/facebook-dark.png" width="24" alt="facebook">
+                    <!--[if !mso]><! -->
+                    <div class="hidden dark:block">
+                      <img src="images/facebook-light.png" width="24" alt="facebook">
+                    </div>
+                    <!--<![endif]-->
+                  </a>
                 </td>
-                <td class="w-2/5 py-3"><a href="https://www.instagram.com/mast._studio/" class="no-underline">
-                  <img src="images/instagram-dark.png" width="24" alt="instagram"></td>
+                <td class="w-2/5 py-3">
+                  <a href="https://www.instagram.com/mast._studio/" class="no-underline" target="_blank">
+                    <img class="dark:hidden" src="images/instagram-dark.png" width="24" alt="instagram">
+                     <!--[if !mso]><! -->
+                     <div class="hidden dark:block">
+                      <img src="images/instagram-light.png" width="24" alt="instagram">
+                    </div>
+                    <!--<![endif]-->
+                  </a>
+                </td>
               </tr></table>
             </td></tr>
             <!-- end FOOTER -->
