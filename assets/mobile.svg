@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg18517"
+   inkscape:export-filename="/home/st33ze/Projects/webDev/MAST/emailTemplate/mast/src/images/mobile.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mobile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18519"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="11.146352"
+     inkscape:cx="17.135651"
+     inkscape:cy="19.782256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18517" />
+  <defs
+     id="defs18514" />
+  <rect
+     style="fill:#f4f4f5;fill-opacity:1;stroke-width:0.79375"
+     id="rect18965"
+     width="12.713393"
+     height="12.682841"
+     x="-0.0021636619"
+     y="0.025242683"
+     rx="2"
+     ry="2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="m 4.1184538,1.0307488 h 4.4725617 c 0.5275235,0 0.9595314,0.4269697 0.9595314,0.947475 v 8.7463982 c 0,0.521369 -0.4320079,0.947473 -0.9586554,0.947473 H 4.1193305 C 3.5918062,11.672961 3.1597977,11.245991 3.1597977,10.725486 V 1.9790903 c 0,-0.5213718 0.4320085,-0.9483415 0.9586561,-0.9483415 z m 2.2362814,8.669315 c 0.3426269,0 0.6212857,0.274543 0.6212857,0.6140422 0,0.338631 -0.2786588,0.614041 -0.6212857,0.614041 -0.3435039,0 -0.6212867,-0.274546 -0.6212867,-0.614041 0,-0.3386312 0.2786587,-0.6140422 0.6212867,-0.6140422 z M 5.3654086,1.7980824 h 1.9795288 c 0.014021,0 0.026288,0.012122 0.026288,0.025984 v 0.285801 c 0,0.013855 -0.01227,0.025984 -0.026288,0.025984 H 5.3654086 c 0,0 0,0 0,0 -0.01402,0 -0.026287,-0.011256 -0.026287,-0.025984 v 0 -0.2858015 c 0,0 0,0 0,0 0,-0.014725 0.011392,-0.025984 0.026287,-0.025983 z M 4.0054128,2.8953875 h 4.6995193 c 0.085878,0 0.155979,0.070154 0.155979,0.1541596 V 9.112872 c 0,0.084004 -0.07098,0.1541597 -0.155979,0.1541597 H 4.0054128 c -0.085,0 -0.1559783,-0.069289 -0.1559783,-0.1541597 V 3.0486813 c 0,-0.084007 0.070102,-0.1532938 0.1559783,-0.1532938 z"
+       id="path1074"
+       style="clip-rule:evenodd;display:inline;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264249;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/st33ze/Projects/webDev/MAST/emailTemplate/mast/src/images/mobile.png"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48" />
+  </g>
+</svg>

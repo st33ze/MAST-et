@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg18517"
+   inkscape:export-filename="/home/st33ze/Projects/webDev/MAST/emailTemplate/mast/src/images/mail.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mail.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18519"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="11.146352"
+     inkscape:cx="15.789919"
+     inkscape:cy="15.027338"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18514" />
+  <rect
+     style="fill:#f4f4f5;fill-opacity:1;stroke-width:0.79375"
+     id="rect18965"
+     width="12.713393"
+     height="12.682841"
+     x="-0.0021636619"
+     y="0.025242683"
+     rx="2"
+     ry="2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g19157"
+       transform="matrix(0.08682867,0,0,0.0871235,1.0873191,2.3234841)"
+       style="fill:#27272a;fill-opacity:1">
+      <path
+         d="m 7.048,0 h 108.784 c 1.939,0 3.701,0.794 4.977,2.069 1.277,1.277 2.07,3.042 2.07,4.979 v 74.759 c 0,1.461 -0.451,2.822 -1.221,3.951 -0.141,0.365 -0.361,0.705 -0.662,0.994 -0.201,0.189 -0.422,0.344 -0.656,0.461 -1.225,1.021 -2.799,1.643 -4.508,1.643 H 7.048 c -1.937,0 -3.701,-0.793 -4.979,-2.07 C 0.794,85.51 0,83.748 0,81.807 V 7.048 C 0,5.107 0.792,3.344 2.068,2.069 3.344,0.792 5.107,0 7.048,0 Z M 5.406,78.842 43.53,40.622 5.406,9.538 Z M 47.729,44.045 8.424,83.449 H 114.125 L 76.563,44.051 64.18,54.602 v 0 c -0.971,0.83 -2.425,0.877 -3.453,0.043 z m 32.945,-3.496 36.799,38.598 V 9.198 Z M 8.867,5.406 62.388,49.045 113.611,5.406 Z"
+         id="path19155"
+         style="fill:#27272a;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
